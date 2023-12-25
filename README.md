@@ -1,3 +1,6 @@
+
+![Alt text](https://github.com/raviatkumar/Face_Mask_Detection_Project/blob/main/images/with%20maak%20and%20without%20mask.png?raw=true)
+
 ### Problem Description
 
 In the current global landscape, the COVID-19 pandemic has necessitated widespread lockdowns and heightened safety measures, making face mask usage a mandatory practice for individuals venturing outdoors. Recognizing the importance of this precautionary measure, the deployment of Deep Learning models for face mask detection has emerged as a significant and timely trend. The objective is to develop systems capable of discerning whether individuals are wearing masks, a crucial aspect in maintaining public health and safety protocols.
